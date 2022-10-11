@@ -258,7 +258,7 @@
 }
   
 /* pagination hover effect on active */
-a:nth-child(1) {
+.paginacao a:nth-child(1) {
     background-color: #0055B7;
     color: white;
 }
